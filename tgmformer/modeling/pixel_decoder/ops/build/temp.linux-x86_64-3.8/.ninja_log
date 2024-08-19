@@ -1,0 +1,4 @@
+# ninja log v5
+1	9285	1709905239912263333	/home/enmingzhang/HGFormer-main/hgformer/modeling/pixel_decoder/ops/build/temp.linux-x86_64-3.8/home/enmingzhang/HGFormer-main/hgformer/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	9349dd1696c1e4e6
+2	22959	1709905253564116232	/home/enmingzhang/HGFormer-main/hgformer/modeling/pixel_decoder/ops/build/temp.linux-x86_64-3.8/home/enmingzhang/HGFormer-main/hgformer/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	e2c8f156179cc70f
+1	31046	1709905261660036835	/home/enmingzhang/HGFormer-main/hgformer/modeling/pixel_decoder/ops/build/temp.linux-x86_64-3.8/home/enmingzhang/HGFormer-main/hgformer/modeling/pixel_decoder/ops/src/vision.o	b8f4895b81bd013d
